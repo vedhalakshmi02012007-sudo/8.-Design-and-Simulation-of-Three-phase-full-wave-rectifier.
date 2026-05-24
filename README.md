@@ -43,7 +43,16 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+<img width="1795" height="814" alt="image" src="https://github.com/user-attachments/assets/1df9aed0-9432-46ed-926f-2f10880d86d5" />
+
 
 ## Output
+<img width="1908" height="1026" alt="image" src="https://github.com/user-attachments/assets/f15223eb-6a80-4458-8048-a074f0b7ef99" />
+<img width="1917" height="1049" alt="image" src="https://github.com/user-attachments/assets/4221b4fc-0104-4c27-958a-5904cc0e3ee3" />
+<img width="1913" height="1047" alt="image" src="https://github.com/user-attachments/assets/92989767-d1ae-4ff2-83b1-d609ec450774" />
+
+
+
 
 ## Result
+Thus the Design-and-Simulation-of-Three-phase-full-wave-rectifier is verified using MATLAB
